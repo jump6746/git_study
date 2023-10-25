@@ -9,3 +9,5 @@ am 테스트
 am 테스트 2
 hello
 this is diff test
+
+diff staged를 알아보기 위한 테스트 입니다.
