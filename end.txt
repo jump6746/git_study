@@ -1,2 +1,4 @@
 another test for git
 파일에 내용 추가
+새로운 테스트
+테스트 추가
